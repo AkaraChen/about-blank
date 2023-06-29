@@ -5,7 +5,7 @@ specifiers:
   '@mdi/js': 7.1.96
   '@preact/preset-vite': 2.5.0
   preact: 10.13.1
-  typescript: 5.0.2
+  typescript: 5.1.6
   vite: 4.2.0
   vite-plugin-pwa: 0.14.4
 
@@ -16,7 +16,7 @@ dependencies:
 
 devDependencies:
   '@preact/preset-vite': 2.5.0_npmdbmzzxsbet322psnoqql64y
-  typescript: 5.0.2
+  typescript: 5.1.6
   vite: 4.2.0
   vite-plugin-pwa: 0.14.4_5mk2jyxgm2gfo7tfhwsrbi4yue
 
@@ -2817,9 +2817,9 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /typescript/5.0.2:
-    resolution: {integrity: sha512-wVORMBGO/FAs/++blGNeAVdbNKtIh1rbBL2EyQ1+J9lClJ93KiiKe8PmFIVdXhHcyv44SL9oglmfeSsndo0jRw==}
-    engines: {node: '>=12.20'}
+  /typescript/5.1.6:
+    resolution: {integrity: sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==}
+    engines: {node: '>=14.17'}
     hasBin: true
     dev: true
 
